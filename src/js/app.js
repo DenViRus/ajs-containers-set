@@ -1,4 +1,5 @@
 // TODO: write your code here
-import { Validator } from './set.js';
+import { Team } from './team.js';
+import { Character } from './character.js';
 
-export { Validator };
+export { Team, Character };
